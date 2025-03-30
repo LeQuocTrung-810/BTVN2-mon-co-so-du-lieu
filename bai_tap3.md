@@ -56,5 +56,7 @@ FROM
 WHERE 
     DKMH.maSV = '01'
 ![image](https://github.com/user-attachments/assets/807130d1-1d65-4e1a-9efd-c565e94ed1fa)
+# Diagram 
+![image](https://github.com/user-attachments/assets/ee383e9f-1708-4c6c-9f24-8cf7539d67b3)
 
 ### THE END
